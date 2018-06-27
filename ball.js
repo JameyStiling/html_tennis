@@ -4,6 +4,8 @@ export class Ball {
 		this.y = y;
 		this.color = color;
 		this.size = size;
+		this.speedX = 5;
+		this.speedY = 5;
 	}
 }
 
